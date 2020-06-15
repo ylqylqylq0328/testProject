@@ -1,0 +1,27 @@
+{
+  "firstName": "Ian",
+  "userId": 9114917,
+  "userUuid": "34c16f53-38c4-461a-bd14-11fa748d2663",
+  "loanApplications": [],
+  "loansInReview": [
+    {
+      "id": 9545966,
+      "uuid": "230ea84a-7199-41c9-bf38-fff27e35970d",
+      "status": "PENDING",
+      "productType": "PERSONAL_LOAN",
+      "sourceSystem": "BORROWER_FUNNEL_V2",
+      "hasOpenBackendCounter": false,
+      "purpose": "CREDIT_CARD",
+      "createDate": "2019-08-21T18:18:59.959Z",
+      "postIssuanceStatus": null
+    }
+  ],
+  "loanAccountSummaryAto": [
+    {
+      "loanAccountNumber": null,
+      "postIssuanceLoanStatus": null,
+      "daysPastDue": 0,
+      "loanProductType": null
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+LoadAmount;Message
+999;Please enter loan amount between $1,000 and $35,000.
+NULL;This field is required
+

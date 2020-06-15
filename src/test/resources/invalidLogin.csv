@@ -1,0 +1,5 @@
+username;password;agreements;message
+1@1;Nn123456;Y;Please enter a valid email.
+candidate02@upgrade-challenge.com;12;Y;Password must be at least 8 characters long, contain at least one number, one uppercase letter and one lowercase letter.
+candidate02@upgrade-challenge.com;Nn123456;N;You need to agree by electronic signature in order to continue
+
